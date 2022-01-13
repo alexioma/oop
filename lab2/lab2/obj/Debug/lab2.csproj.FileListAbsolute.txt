@@ -1,0 +1,10 @@
+E:\MVS\repos\lab2\lab2\bin\Debug\lab2.exe.config
+E:\MVS\repos\lab2\lab2\bin\Debug\lab2.exe
+E:\MVS\repos\lab2\lab2\bin\Debug\lab2.pdb
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.Form1.resources
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.exe
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.pdb
+E:\MVS\repos\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
